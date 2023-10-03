@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Computer Magier 
-- 👀 I’m interested in Web-sites,Games and Arduino
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on None
-- 📫 How to reach me uran54321@yandex.ru 
+- 👋 Hi, I’m Computer Magier
+- 👀 I’m interested in Backend on Python
+- 🌱 I’m currently learning Django & Fast API
+- 📫 You can send me e-mail to uran54321@yandex.ru 
 
 <!---
 kotKolil/kotKolil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
