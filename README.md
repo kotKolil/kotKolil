@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Panasuyl Michail
+- 👋 Hi, I’m Panasuyk Michail
 - 👀 I’m interested in Backend on Python and Frontend on Vannila JS
 - 🌱 I’m currently learning frontend programming
 - 📫 You can send me e-mail to ldxi1991@gmail.com
