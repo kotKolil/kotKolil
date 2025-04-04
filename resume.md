@@ -1,0 +1,28 @@
+<H1>Panasyuk Michail</H1>
+<h3>Junior Programmer</h3>
+<b>ldxi1991@gmail.com Russian Federation, Saint Petesburg</b>
+
+I live and breathe software. independently studied <b>Python</b>, web development, and htm css and <b>js</b>.
+<H3>WORK EXPERIENCE</H3>
+
+Developed REST-FULL application, used websockets, jwt auth tokens, build dekstop on PyQT5, build a telegram bot
+
+<H3>PROJECTS</H3>
+
+<H4>[OFF](https://github.com/kotKolil/OFF)</h4>
+OFF - free, open-source web forum engine built on <b>Python</b> 3.x for the backend and JavaScript for the client-side. It features flexible settings, real-time topic updates, and a robust moderation system. This forum engine utilizes JWT tokens to secure user data and employs a class-based architecture to ensure maintainability.
+
+<H4>[Karfagen](https://github.com/kotKolil/karfagen)</H4>
+Karfagen is open source project of fb2-files reader on PyQT5 for different platforms
+
+<h4>[Simple Django Clipboard App](https://github.com/kotKolil/simple-django-notes)</h4>
+an open-source web application built with Django that allows users to create, view, and retrieve text notes via an API. Notes are categorized as either common (visible to everyone) or personal (visible only to the creator). The site includes a search function for finding specific notes. The frontend is built using <b>html</b> and CSS3, with page content generated using Jinja2 templates.
+
+<h4>[democracyBot](https://github.com/kotKolil/democracyBot)</h4>
+This bot was created to add new chat administrators by anonymous voting. It was wrote on <b>Python</b> 3.13 and Telebot library
+<H3>EDUCATION</H3>
+11 classes of state school and self-education
+
+
+<h3>SKILLS</h3>
+Docker; JavaScript; HTML; CSS; <b>Python</b>; jQuery; Django; 
